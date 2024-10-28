@@ -1,0 +1,9 @@
+Flask
+Flask-Login
+flask-bcrypt
+pymongo
+bson
+smtplib
+reportlab
+qrcode
+PyJWT
